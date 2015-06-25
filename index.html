@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <title>North Star Fund Greening Western Queens Fund Funded Projects</title>
+    <link rel="stylesheet" href="style.css" type="text/css" media="all">
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=ABQIAAAAfSOUme4y3TXm3DGtYUFv-xR_dOEFYLgxCSn8ZT-l5Sn1LmLnVhR9HMXx2AoSJKoqLGpWULgQM6e0DA"></script> -->
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script src="geoxml3.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <div class="topbar">&nbsp;</div>
+    <div class="header">
+        <h1>North Star Fund Greening Western Queens Fund Funded Projects</h1>
+        <p>For more information about the Greening Western Queens Fund and North Star Fund, please visit our website: <a href="http://www.northstarfund.org/greeningqueens">www.northstarfund.org/greeningqueens</a></p>
+    </div>
+    <div class="content" id="map-canvas"></div>
+    <div class="sidebar1">
+        <p>Below is a list of the projects funded in the 2011 and 2012 grants from North Star Fund's Greening Western Queens Fund. On the map are the locations of each site or potential site where project activities will occur. An asterisk (*) indicates location TBD.</p>
+        <p>Each organization has its own distinct pointer. For example, a plain yellow pointer indicates Friends of Sunnyside Gardens Park. A yellow pointer with a star indicates a Solar One site.</p>
+        <p>In some cases, exact locations have not yet been determined, or will be carried out throughout a portion of the areas impacted by the 2006 blackout. These areas are indicated by a shaded region. To see more detail about a project location, click on the link below or the icon on the map.</p>
+    </div>
+    <div class="sidebar2" id="the_side_bar"></div>
+    <script type="text/javascript">
+    //<![CDATA[
+
+    function initialize() {
+        var myLatlng = new google.maps.LatLng(40.7677037,-73.9130238);
+        var mapOptions = {
+            zoom: 15,
+            center: myLatlng,
+            mapTypeId: google.maps.MapTypeId.HYBRID,
+            scaleControl: true,
+            zoomControl: true,
+        };
+        var map = new google.maps.Map(document.getElementById("map-canvas"),mapOptions);
+
+        gxml = new GeoXml("gxml", map, "North_star_projects.kml", {
+          allfoldersopen:true,
+          //descstyle: 'class = "description"',
+          descstyle: 'style = "font-family: arial, sans-serif;font-size: small;padding-bottom:.7em;"',
+          directions: false,
+          dohilite:true,
+          hilite : { color:"#CCD9E9",opacity: 0, textcolor:"#000000" },
+          icontype: "style",
+          iwwidth:400,
+          //iwoptions: {},
+          mouseover: true,
+          processStyles: true,
+          publishdirectory:"http://kaymmm.github.io/GreeningWesternQueens/",
+          sidebariconheight: 16,
+          sidebarid:"the_side_bar",
+          sidebarsnippet: true,
+          sortbyname: true,
+          titlestyle: 'style = "font-family: arial, sans-serif;font-size: medium;font-weight:bold;"',
+          veryquiet: true,
+
+
+        });
+        gxml.parse();
+
+      }
+      google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+</body>
+
+</html>

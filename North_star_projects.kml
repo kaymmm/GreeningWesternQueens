@@ -1,469 +1,469 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://earth.google.com/kml/2.2">
   <Document>
-  <name>North Star Fund Greening Western Queens Fund Funded Projects</name>
-  <description><![CDATA[Projects funded by the North Star Fund Greening Western Queens Fund]]></description>
+    <name>North Star Fund Greening Western Queens Fund Funded Projects</name>
+    <description><![CDATA[Projects funded by the North Star Fund Greening Western Queens Fund]]></description>
 
-<Style id="style101">
-  <IconStyle>
-    <Icon>
-      <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank_maps.png</href>
-    </Icon>
-    <scale>1.00000</scale>
-  </IconStyle>
-</Style>
-<Style id="style102">
-  <IconStyle>
-    <Icon>
-      <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/pink-dot.png</href>
-    </Icon>
-    <scale>1.00000</scale>
-  </IconStyle>
-</Style>
-<Style id="style103">
-  <IconStyle>
-    <Icon>
-      <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png</href>
-    </Icon>
-    <scale>1.00000</scale>
-  </IconStyle>
-</Style>
-<Style id="style104">
-  <IconStyle>
-    <Icon>
-      <href>http://maps.google.com/mapfiles/kml/paddle/red-blank_maps.png</href>
-    </Icon>
-    <scale>1.00000</scale>
-  </IconStyle>
-</Style>
+    <Style id="style101">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank_maps.png</href>
+        </Icon>
+        <scale>1.00000</scale>
+      </IconStyle>
+    </Style>
+    <Style id="style102">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/pink-dot.png</href>
+        </Icon>
+        <scale>1.00000</scale>
+      </IconStyle>
+    </Style>
+    <Style id="style103">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png</href>
+        </Icon>
+        <scale>1.00000</scale>
+      </IconStyle>
+    </Style>
+    <Style id="style104">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-blank_maps.png</href>
+        </Icon>
+        <scale>1.00000</scale>
+      </IconStyle>
+    </Style>
 
 
 
-  <Style id="style1">
-    <LineStyle>
-      <color>80006600</color>
-      <width>3</width>
-    </LineStyle>
-    <PolyStyle>
-      <color>33009900</color>
-      <fill>1</fill>
-      <outline>1</outline>
-    </PolyStyle>
-  </Style>
-  <Style id="style2">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars_maps.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
-  <Style id="style3">
-    <LineStyle>
-      <color>33800000</color>
-      <width>3</width>
-    </LineStyle>
-    <PolyStyle>
-      <color>33800000</color>
-      <fill>1</fill>
-      <outline>1</outline>
-    </PolyStyle>
-  </Style>
-  <Style id="style4">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.google.com/mapfiles/kml/paddle/purple-circle_maps.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
-  <Style id="style5">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.google.com/mapfiles/kml/paddle/wht-stars_maps.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
-  <Style id="style6">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
-  <Style id="style7">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.google.com/mapfiles/kml/paddle/red-diamond_maps.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
-  <Style id="style8">
-    <IconStyle>
-      <Icon>
-      <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/lightblue.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style9">
-    <LineStyle>
-      <color>800F4BFF</color>
-	  <width>3</width>
-    </LineStyle>
-    <PolyStyle>
-      <color>330F4BFF</color>
-      <fill>1</fill>
-      <outline>1</outline>
-    </PolyStyle>
-  </Style>
-  <Style id="style10">
-    <LineStyle>
-      <color>80006600</color>
-      <width>3</width>
-    </LineStyle>
-    <PolyStyle>
-      <color>33009900</color>
-      <fill>1</fill>
-      <outline>1</outline>
-    </PolyStyle>
-  </Style>
-  <Style id="style11">
-    <IconStyle>
-      <Icon>
-      <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/red-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style12">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank_maps.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
-  <Style id="style13">
-    <IconStyle>
-      <Icon>
-      <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/yellow.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style14">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/pink.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
-  <Placemark>
-    <name>Western Queens Compost Initiative</name>
-    <Snippet>Sunnyside Greenmarket Drop-Off (Updated 2012*)</Snippet>
-    <description><![CDATA[Sunnyside Greenmarket Drop-Off<br><br>$65,000 for one year, including a $50,000 challenge grant<br>to develop an initiative that will bring community-based, sustainable waste reduction composting programs to Western Queens]]></description>
-    <styleUrl>#style12</styleUrl>
-    <Point>
-      <coordinates>-73.921722,40.747063,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Western Queens Compost Initiative</name>
-    <Snippet>Sunnyside Community Garden (Updated 2012*)</Snippet>
-    <description><![CDATA[Sunnyside Community Garden<br><br>$65,000 for one year, including a $50,000 challenge grant<br>to develop an initiative that will bring community-based, sustainable waste reduction composting programs to Western Queens]]></description>
-    <styleUrl>#style12</styleUrl>
-    <Point>
-      <coordinates>-73.913719,40.750061,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Asian Americans for Equality (AAFE)</name>
-    <Snippet>(Updated 2012*)</Snippet>
-    <description><![CDATA[$80,000 for one year <br>To implement environmentally focused organizing and education, outreach, and a cooking oil recycling program.]]></description>
-    <styleUrl>#style1</styleUrl>
-    <Polygon>
-      <outerBoundaryIs>
-        <LinearRing>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -73.926651,40.742119,0.000000
-            -73.927368,40.738487,0.000000
-            -73.920975,40.741291,0.000000
-            -73.917183,40.740883,0.000000
-            -73.916801,40.742706,0.000000
-            -73.912849,40.742256,0.000000
-            -73.912415,40.744137,0.000000
-            -73.910477,40.744713,0.000000
-            -73.908546,40.745064,0.000000
-            -73.907082,40.745296,0.000000
-            -73.905289,40.745354,0.000000
-            -73.895027,40.746387,0.000000
-            -73.895073,40.746582,0.000000
-            -73.899033,40.746120,0.000000
-            -73.905403,40.745453,0.000000
-            -73.907135,40.745445,0.000000
-            -73.910385,40.744930,0.000000
-            -73.916100,40.743130,0.000000
-            -73.922462,40.743813,0.000000
-            -73.922890,40.741665,0.000000
-            -73.926651,40.742119,0.000000
-          </coordinates>
-        </LinearRing>
-      </outerBoundaryIs>
-    </Polygon>
-  </Placemark>
-  <Placemark>
-    <name>Asian Americans for Equality (AAFE)</name>
-    <Snippet>(Updated 2012*)</Snippet>
-    <description><![CDATA[$90,000 for one year <br>to implement environmentally focused organizing and education, outreach, and community-planning programs]]></description>
-    <styleUrl>#style1</styleUrl>
-    <Polygon>
-      <outerBoundaryIs>
-        <LinearRing>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -73.913055,40.777958,0.000000
-            -73.923058,40.771328,0.000000
-            -73.918358,40.770012,0.000000
-            -73.920418,40.768288,0.000000
-            -73.921661,40.766907,0.000000
-            -73.915176,40.763870,0.000000
-            -73.924599,40.752460,0.000000
-            -73.924301,40.752296,0.000000
-            -73.910912,40.768726,0.000000
-            -73.905823,40.772888,0.000000
-            -73.913055,40.777958,0.000000
-          </coordinates>
-        </LinearRing>
-      </outerBoundaryIs>
-    </Polygon>
-  </Placemark>
-  <Placemark>
-    <name>Solar One</name>
-    <Snippet>William Cullen Bryant High School (Updated 2012)</Snippet>
-    <description><![CDATA[William Cullen Bryant High School<br>48-10 31st Ave.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
-    <styleUrl>#style2</styleUrl>
-    <Point>
-      <coordinates>-73.911163,40.757069,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Solar One</name>
-    <Snippet>P.S. 084 Steinway (Updated 2012)</Snippet>
-    <description><![CDATA[P.S. 084 Steinway<br>22-45 41st St.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
-    <styleUrl>#style2</styleUrl>
-    <Point>
-      <coordinates>-73.906410,40.771317,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Solar One</name>
-    <Snippet>P.S. 085 Judge Charles Vallone (Updated 2012)</Snippet>
-    <description><![CDATA[P.S. 085 Judge Charles Vallone<br>23-70 31st St.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
-    <styleUrl>#style2</styleUrl>
-    <Point>
-      <coordinates>-73.914818,40.772999,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Solar One</name>
-    <Snippet>I.S. 141 The Steinway School (2011)</Snippet>
-    <description><![CDATA[I.S. 141 The Steinway School&nbsp;<br>37-11 21st Ave.<br><br>$110,000 over two years to implement Green Design Labs in eight public schools]]></description>
-    <styleUrl>#style2</styleUrl>
-    <Point>
-      <coordinates>-73.904503,40.775764,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Solar One</name>
-    <Snippet>P.S. 070 Queens (2011)</Snippet>
-    <description><![CDATA[P.S. 070 Queens<br>30-45 42nd St.<br><br>$110,000 over two years</div><div>to implement Green Design Labs in eight public schools</div></div>]]></description>
-    <styleUrl>#style2</styleUrl>
-    <Point>
-      <coordinates>-73.913971,40.761734,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Solar One</name>
-    <Snippet>I.S. 010 Horace Greeley (2011)</Snippet>
-    <description><![CDATA[I.S. 010 Horace Greeley<br>45-11 31st Ave.<br><br>$110,000 over two years<br>to implement Green Design Labs in eight public schools]]></description>
-    <styleUrl>#style2</styleUrl>
-    <Point>
-      <coordinates>-73.911964,40.760120,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Solar One</name>
-    <Snippet>P.S. 150 Queens (2011)</Snippet>
-    <description><![CDATA[P.S. 150 Queens<br>40-01 43rd Ave.<br><br>$110,000 over two years<br>to implement Green Design Labs in eight public schools]]></description>
-    <styleUrl>#style2</styleUrl>
-    <Point>
-      <coordinates>-73.923370,40.745758,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Solar One</name>
-    <Snippet>P.S. 122 Mamie Fay (Updated 2012)</Snippet>
-    <description><![CDATA[P.S. 122 Mamie Fay<br>21-21 Ditmars Blvd.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
-    <styleUrl>#style2</styleUrl>
-    <Point>
-      <coordinates>-73.915756,40.780514,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Solar One</name>
-    <Snippet>IS 204 Oliver W. Holmes. Middle School (Updated 2012)</Snippet>
-    <description><![CDATA[IS 204 Oliver W. Holmes. Middle School<br>36-41 28th Street<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
-    <styleUrl>#style2</styleUrl>
-    <Point>
-      <coordinates>-73.937988,40.759025,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Solar One</name>
-    <Snippet>PS 112 Dutch Kills Elementary (Updated 2012)</Snippet>
-    <description><![CDATA[PS 112 Dutch Kills, Elementary<br>25-05 37 Ave.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
-    <styleUrl>#style2</styleUrl>
-    <Point>
-      <coordinates>-73.932409,40.757156,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Solar One</name>
-    <Snippet>PS 12 James B. Colgate Elementary (Updated 2012)</Snippet>
-    <description><![CDATA[PS 12 James B. Colgate Elementary<br>42-00 72 St.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
-    <styleUrl>#style2</styleUrl>
-    <Point>
-      <coordinates>-73.892841,40.742738,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Solar One</name>
-    <Snippet>The Young Womens Leadership School of Astoria Middle School (Updated 2012)</Snippet>
-    <description><![CDATA[The Young Womens Leadership School of Astoria Middle School<br>23-15 Newtown Ave.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
-    <styleUrl>#style2</styleUrl>
-    <Point>
-      <coordinates>-73.924234,40.771068,0.000000</coordinates>
-    </Point>
-  </Placemark>
+    <Style id="style1">
+      <LineStyle>
+        <color>80006600</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>33009900</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="style2">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars_maps.png</href>
+        </Icon>
+        <scale>1.100000</scale>
+      </IconStyle>
+    </Style>
+    <Style id="style3">
+      <LineStyle>
+        <color>33800000</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>33800000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="style4">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/purple-circle_maps.png</href>
+        </Icon>
+        <scale>1.100000</scale>
+      </IconStyle>
+    </Style>
+    <Style id="style5">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-stars_maps.png</href>
+        </Icon>
+        <scale>1.100000</scale>
+      </IconStyle>
+    </Style>
+    <Style id="style6">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+        </Icon>
+        <scale>1.100000</scale>
+      </IconStyle>
+    </Style>
+    <Style id="style7">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-diamond_maps.png</href>
+        </Icon>
+        <scale>1.100000</scale>
+      </IconStyle>
+    </Style>
+    <Style id="style8">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/lightblue.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style9">
+      <LineStyle>
+        <color>800F4BFF</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>330F4BFF</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="style10">
+      <LineStyle>
+        <color>80006600</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>33009900</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="style11">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/red-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style12">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank_maps.png</href>
+        </Icon>
+        <scale>1.100000</scale>
+      </IconStyle>
+    </Style>
+    <Style id="style13">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/yellow.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style14">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/pink.png</href>
+        </Icon>
+        <scale>1.100000</scale>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Western Queens Compost Initiative</name>
+      <snippet>Sunnyside Greenmarket Drop-Off (Updated 2012*)</snippet>
+      <description><![CDATA[Sunnyside Greenmarket Drop-Off<br><br>$65,000 for one year, including a $50,000 challenge grant<br>to develop an initiative that will bring community-based, sustainable waste reduction composting programs to Western Queens]]></description>
+      <styleUrl>#style12</styleUrl>
+      <Point>
+        <coordinates>-73.921722,40.747063,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western Queens Compost Initiative</name>
+      <snippet>Sunnyside Community Garden (Updated 2012*)</snippet>
+      <description><![CDATA[Sunnyside Community Garden<br><br>$65,000 for one year, including a $50,000 challenge grant<br>to develop an initiative that will bring community-based, sustainable waste reduction composting programs to Western Queens]]></description>
+      <styleUrl>#style12</styleUrl>
+      <Point>
+        <coordinates>-73.913719,40.750061,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Asian Americans for Equality (AAFE)</name>
+      <snippet>(Updated 2012*)</snippet>
+      <description><![CDATA[$80,000 for one year <br>To implement environmentally focused organizing and education, outreach, and a cooking oil recycling program.]]></description>
+      <styleUrl>#style1</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -73.926651,40.742119,0.000000
+              -73.927368,40.738487,0.000000
+              -73.920975,40.741291,0.000000
+              -73.917183,40.740883,0.000000
+              -73.916801,40.742706,0.000000
+              -73.912849,40.742256,0.000000
+              -73.912415,40.744137,0.000000
+              -73.910477,40.744713,0.000000
+              -73.908546,40.745064,0.000000
+              -73.907082,40.745296,0.000000
+              -73.905289,40.745354,0.000000
+              -73.895027,40.746387,0.000000
+              -73.895073,40.746582,0.000000
+              -73.899033,40.746120,0.000000
+              -73.905403,40.745453,0.000000
+              -73.907135,40.745445,0.000000
+              -73.910385,40.744930,0.000000
+              -73.916100,40.743130,0.000000
+              -73.922462,40.743813,0.000000
+              -73.922890,40.741665,0.000000
+              -73.926651,40.742119,0.000000
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Asian Americans for Equality (AAFE)</name>
+      <snippet>(Updated 2012*)</snippet>
+      <description><![CDATA[$90,000 for one year <br>to implement environmentally focused organizing and education, outreach, and community-planning programs]]></description>
+      <styleUrl>#style1</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -73.913055,40.777958,0.000000
+              -73.923058,40.771328,0.000000
+              -73.918358,40.770012,0.000000
+              -73.920418,40.768288,0.000000
+              -73.921661,40.766907,0.000000
+              -73.915176,40.763870,0.000000
+              -73.924599,40.752460,0.000000
+              -73.924301,40.752296,0.000000
+              -73.910912,40.768726,0.000000
+              -73.905823,40.772888,0.000000
+              -73.913055,40.777958,0.000000
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Solar One</name>
+      <snippet>William Cullen Bryant High School (Updated 2012)</snippet>
+      <description><![CDATA[William Cullen Bryant High School<br>48-10 31st Ave.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
+      <styleUrl>#style2</styleUrl>
+      <Point>
+        <coordinates>-73.911163,40.757069,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar One</name>
+      <snippet>P.S. 084 Steinway (Updated 2012)</snippet>
+      <description><![CDATA[P.S. 084 Steinway<br>22-45 41st St.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
+      <styleUrl>#style2</styleUrl>
+      <Point>
+        <coordinates>-73.906410,40.771317,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar One</name>
+      <snippet>P.S. 085 Judge Charles Vallone (Updated 2012)</snippet>
+      <description><![CDATA[P.S. 085 Judge Charles Vallone<br>23-70 31st St.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
+      <styleUrl>#style2</styleUrl>
+      <Point>
+        <coordinates>-73.914818,40.772999,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar One</name>
+      <snippet>I.S. 141 The Steinway School (2011)</snippet>
+      <description><![CDATA[I.S. 141 The Steinway School&nbsp;<br>37-11 21st Ave.<br><br>$110,000 over two years to implement Green Design Labs in eight public schools]]></description>
+      <styleUrl>#style2</styleUrl>
+      <Point>
+        <coordinates>-73.904503,40.775764,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar One</name>
+      <snippet>P.S. 070 Queens (2011)</snippet>
+      <description><![CDATA[P.S. 070 Queens<br>30-45 42nd St.<br><br>$110,000 over two years</div><div>to implement Green Design Labs in eight public schools</div></div>]]></description>
+      <styleUrl>#style2</styleUrl>
+      <Point>
+        <coordinates>-73.913971,40.761734,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar One</name>
+      <snippet>I.S. 010 Horace Greeley (2011)</snippet>
+      <description><![CDATA[I.S. 010 Horace Greeley<br>45-11 31st Ave.<br><br>$110,000 over two years<br>to implement Green Design Labs in eight public schools]]></description>
+      <styleUrl>#style2</styleUrl>
+      <Point>
+        <coordinates>-73.911964,40.760120,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar One</name>
+      <snippet>P.S. 150 Queens (2011)</snippet>
+      <description><![CDATA[P.S. 150 Queens<br>40-01 43rd Ave.<br><br>$110,000 over two years<br>to implement Green Design Labs in eight public schools]]></description>
+      <styleUrl>#style2</styleUrl>
+      <Point>
+        <coordinates>-73.923370,40.745758,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar One</name>
+      <snippet>P.S. 122 Mamie Fay (Updated 2012)</snippet>
+      <description><![CDATA[P.S. 122 Mamie Fay<br>21-21 Ditmars Blvd.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
+      <styleUrl>#style2</styleUrl>
+      <Point>
+        <coordinates>-73.915756,40.780514,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar One</name>
+      <snippet>IS 204 Oliver W. Holmes. Middle School (Updated 2012)</snippet>
+      <description><![CDATA[IS 204 Oliver W. Holmes. Middle School<br>36-41 28th Street<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
+      <styleUrl>#style2</styleUrl>
+      <Point>
+        <coordinates>-73.937988,40.759025,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar One</name>
+      <snippet>PS 112 Dutch Kills Elementary (Updated 2012)</snippet>
+      <description><![CDATA[PS 112 Dutch Kills, Elementary<br>25-05 37 Ave.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
+      <styleUrl>#style2</styleUrl>
+      <Point>
+        <coordinates>-73.932409,40.757156,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar One</name>
+      <snippet>PS 12 James B. Colgate Elementary (Updated 2012)</snippet>
+      <description><![CDATA[PS 12 James B. Colgate Elementary<br>42-00 72 St.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
+      <styleUrl>#style2</styleUrl>
+      <Point>
+        <coordinates>-73.892841,40.742738,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar One</name>
+      <snippet>The Young Womens Leadership School of Astoria Middle School (Updated 2012)</snippet>
+      <description><![CDATA[The Young Womens Leadership School of Astoria Middle School<br>23-15 Newtown Ave.<br><br>One-year grant: $60,000<br>to implement Green Design Labs in five public schools]]></description>
+      <styleUrl>#style2</styleUrl>
+      <Point>
+        <coordinates>-73.924234,40.771068,0.000000</coordinates>
+      </Point>
+    </Placemark>
 
-  <Placemark>
-    <name>In Our Back Yards (IOBY) (2011), Horticultural Society (Updated 2012*), Earth Day New York (2011)</name>
-    <Snippet> </Snippet>
-    <description><![CDATA[<b>In Our Back Yards (IOBY)</b><br>$10,000 for one year<br>to provide matching grant funds for small-scale environmental projects<br><br><b>Horticultural Society</b><br>One-year grant: $222,000<br>to establish learning garden ecosystems at three additional schools.<br><br><b>Earth Day New York</b><br>$20,000 for one year<br>to research and plan the implementation of public green roofs]]></description>
-    <styleUrl>#style9</styleUrl>
-    <Polygon>
-      <outerBoundaryIs>
-        <LinearRing>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -73.932831,40.743080,0.000000
-            -73.937332,40.739799,0.000000
-            -73.936920,40.737053,0.000000
-            -73.941856,40.736515,0.000000
-            -73.941399,40.733829,0.000000
-            -73.931587,40.734737,0.000000
-            -73.932373,40.740276,0.000000
-            -73.927460,40.740688,0.000000
-            -73.926575,40.735214,0.000000
-            -73.921608,40.735645,0.000000
-            -73.921188,40.732918,0.000000
-            -73.916313,40.733498,0.000000
-            -73.917160,40.738899,0.000000
-            -73.912239,40.739437,0.000000
-            -73.912720,40.742142,0.000000
-            -73.893021,40.744160,0.000000
-            -73.893929,40.749596,0.000000
-            -73.898842,40.749222,0.000000
-            -73.899323,40.751846,0.000000
-            -73.904175,40.751350,0.000000
-            -73.903870,40.748730,0.000000
-            -73.908707,40.748253,0.000000
-            -73.909142,40.750938,0.000000
-            -73.923920,40.749496,0.000000
-            -73.923096,40.743999,0.000000
-            -73.932831,40.743080,0.000000
-          </coordinates>
-        </LinearRing>
-      </outerBoundaryIs>
-    </Polygon>
-  </Placemark>
-  <Placemark>
-  <name>In Our Back Yards (IOBY) (2011), Horticultural Society (Updated 2012*), Earth Day New York (2011)</name>
-  <Snippet> </Snippet>
-  <description><![CDATA[In Our Back Yards (IOBY)</b><br>$10,000 for one year<br>to provide matching grant funds for small-scale environmental projects<br><br><b>Horticultural Society</b><br>One-year grant: $222,000<br>to establish learning garden ecosystems at three additional schools.<br><br><b>Earth Day New York</b><br>$20,000 for one year<br>to research and plan the implementation of public green roofs]]></description>
-    <styleUrl>#style9</styleUrl>
-    <Polygon>
-      <outerBoundaryIs>
-        <LinearRing>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -73.913712,40.778721,0.000000
-            -73.918594,40.778156,0.000000
-            -73.918205,40.775391,0.000000
-            -73.923126,40.774872,0.000000
-            -73.920883,40.761162,0.000000
-            -73.915916,40.761639,0.000000
-            -73.915527,40.758873,0.000000
-            -73.920448,40.758224,0.000000
-            -73.919456,40.752865,0.000000
-            -73.909653,40.753757,0.000000
-            -73.910469,40.759209,0.000000
-            -73.905594,40.759769,0.000000
-            -73.906448,40.765236,0.000000
-            -73.886795,40.767181,0.000000
-            -73.887695,40.772663,0.000000
-            -73.892624,40.772305,0.000000
-            -73.894043,40.780495,0.000000
-            -73.903870,40.779644,0.000000
-            -73.904388,40.782333,0.000000
-            -73.914146,40.781376,0.000000
-            -73.913712,40.778721,0.000000
-          </coordinates>
-        </LinearRing>
-      </outerBoundaryIs>
-    </Polygon>
-  </Placemark>
-  <Placemark>
+    <Placemark>
+      <name>In Our Back Yards (IOBY) (2011), Horticultural Society (Updated 2012*), Earth Day New York (2011)</name>
+      <snippet> </snippet>
+      <description><![CDATA[<b>In Our Back Yards (IOBY)</b><br>$10,000 for one year<br>to provide matching grant funds for small-scale environmental projects<br><br><b>Horticultural Society</b><br>One-year grant: $222,000<br>to establish learning garden ecosystems at three additional schools.<br><br><b>Earth Day New York</b><br>$20,000 for one year<br>to research and plan the implementation of public green roofs]]></description>
+      <styleUrl>#style9</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -73.932831,40.743080,0.000000
+              -73.937332,40.739799,0.000000
+              -73.936920,40.737053,0.000000
+              -73.941856,40.736515,0.000000
+              -73.941399,40.733829,0.000000
+              -73.931587,40.734737,0.000000
+              -73.932373,40.740276,0.000000
+              -73.927460,40.740688,0.000000
+              -73.926575,40.735214,0.000000
+              -73.921608,40.735645,0.000000
+              -73.921188,40.732918,0.000000
+              -73.916313,40.733498,0.000000
+              -73.917160,40.738899,0.000000
+              -73.912239,40.739437,0.000000
+              -73.912720,40.742142,0.000000
+              -73.893021,40.744160,0.000000
+              -73.893929,40.749596,0.000000
+              -73.898842,40.749222,0.000000
+              -73.899323,40.751846,0.000000
+              -73.904175,40.751350,0.000000
+              -73.903870,40.748730,0.000000
+              -73.908707,40.748253,0.000000
+              -73.909142,40.750938,0.000000
+              -73.923920,40.749496,0.000000
+              -73.923096,40.743999,0.000000
+              -73.932831,40.743080,0.000000
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>In Our Back Yards (IOBY) (2011), Horticultural Society (Updated 2012*), Earth Day New York (2011)</name>
+      <snippet> </snippet>
+      <description><![CDATA[In Our Back Yards (IOBY)</b><br>$10,000 for one year<br>to provide matching grant funds for small-scale environmental projects<br><br><b>Horticultural Society</b><br>One-year grant: $222,000<br>to establish learning garden ecosystems at three additional schools.<br><br><b>Earth Day New York</b><br>$20,000 for one year<br>to research and plan the implementation of public green roofs]]></description>
+      <styleUrl>#style9</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -73.913712,40.778721,0.000000
+              -73.918594,40.778156,0.000000
+              -73.918205,40.775391,0.000000
+              -73.923126,40.774872,0.000000
+              -73.920883,40.761162,0.000000
+              -73.915916,40.761639,0.000000
+              -73.915527,40.758873,0.000000
+              -73.920448,40.758224,0.000000
+              -73.919456,40.752865,0.000000
+              -73.909653,40.753757,0.000000
+              -73.910469,40.759209,0.000000
+              -73.905594,40.759769,0.000000
+              -73.906448,40.765236,0.000000
+              -73.886795,40.767181,0.000000
+              -73.887695,40.772663,0.000000
+              -73.892624,40.772305,0.000000
+              -73.894043,40.780495,0.000000
+              -73.903870,40.779644,0.000000
+              -73.904388,40.782333,0.000000
+              -73.914146,40.781376,0.000000
+              -73.913712,40.778721,0.000000
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Grow NYC School Gardens</name>
+      <snippet>I.S. 125 Thom J. McCann (Updated 2012*)</snippet>
+      <description><![CDATA[I.S. 125 Thom J. McCann Woodside<br>46-02 47th Ave.<br><br>$100,000 for one year<br>to develop five gardens in local public schools]]></description>
+      <styleUrl>#style4</styleUrl>
+      <Point>
+        <coordinates>-73.918755,40.740437,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grow NYC School Gardens</name>
+      <snippet>I.S. 141 the Steinway (Updated 2012*)</snippet>
+      <description><![CDATA[I.S. 141 the Steinway<br>37-11 21st Ave.<br><br>$100,000 for one year<br>to develop five gardens in local public schools]]></description>
+      <styleUrl>#style4</styleUrl>
+      <Point>
+        <coordinates>-73.904716,40.775665,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grow NYC School Gardens</name>
+      <snippet>P.S. 011 Kathryn Phelan (Updated 2012*)</snippet>
+      <description><![CDATA[P.S. 011 Kathryn Phelan<br>54-25 Skillman Ave.<br><br>$100,000 for one year<br>to develop five gardens in local public schools]]></description>
+      <styleUrl>#style4</styleUrl>
+      <Point>
+        <coordinates>-73.908844,40.745403,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grow NYC School Gardens</name>
+      <snippet>P.S. 171 Peter G Van Alst (Updated 2012*)</snippet>
+      <description><![CDATA[P.S. 171 Peter G Van Alst<br>14-14 29th Ave.<br><br>$100,000 for one year<br>to develop five gardens in local public schools]]></description>
+      <styleUrl>#style4</styleUrl>
+      <Point>
+        <coordinates>-73.92887,40.77144,0.000000</coordinates>
+      </Point>
+    </Placemark><Placemark>
     <name>Grow NYC School Gardens</name>
-    <Snippet>I.S. 125 Thom J. McCann (Updated 2012*)</Snippet>
-    <description><![CDATA[I.S. 125 Thom J. McCann Woodside<br>46-02 47th Ave.<br><br>$100,000 for one year<br>to develop five gardens in local public schools]]></description>
-    <styleUrl>#style4</styleUrl>
-    <Point>
-      <coordinates>-73.918755,40.740437,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Grow NYC School Gardens</name>
-    <Snippet>I.S. 141 the Steinway (Updated 2012*)</Snippet>
-    <description><![CDATA[I.S. 141 the Steinway<br>37-11 21st Ave.<br><br>$100,000 for one year<br>to develop five gardens in local public schools]]></description>
-    <styleUrl>#style4</styleUrl>
-    <Point>
-      <coordinates>-73.904716,40.775665,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Grow NYC School Gardens</name>
-    <Snippet>P.S. 011 Kathryn Phelan (Updated 2012*)</Snippet>
-    <description><![CDATA[P.S. 011 Kathryn Phelan<br>54-25 Skillman Ave.<br><br>$100,000 for one year<br>to develop five gardens in local public schools]]></description>
-    <styleUrl>#style4</styleUrl>
-    <Point>
-      <coordinates>-73.908844,40.745403,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Grow NYC School Gardens</name>
-    <Snippet>P.S. 171 Peter G Van Alst (Updated 2012*)</Snippet>
-    <description><![CDATA[P.S. 171 Peter G Van Alst<br>14-14 29th Ave.<br><br>$100,000 for one year<br>to develop five gardens in local public schools]]></description>
-    <styleUrl>#style4</styleUrl>
-    <Point>
-      <coordinates>-73.92887,40.77144,0.000000</coordinates>
-    </Point>
-  </Placemark><Placemark>
-    <name>Grow NYC School Gardens</name>
-    <Snippet>Robert F Wagner Junior Secondary School (Updated 2012*)</Snippet>
+    <snippet>Robert F Wagner Junior Secondary School (Updated 2012*)</snippet>
     <description><![CDATA[Robert F Wagner Junior Secondary School<br>47-07 30th Pl.<br><br>$100,000 for one year<br>to develop five gardens in local public schools]]></description>
     <styleUrl>#style4</styleUrl>
     <Point>
@@ -473,7 +473,7 @@
 
   <Placemark>
     <name>Grow NYC School Curriculum</name>
-    <Snippet>William Cullen Bryant High School (2011)</Snippet>
+    <snippet>William Cullen Bryant High School (2011)</snippet>
     <description><![CDATA[48-10 31st Ave.<br><br>Two-year grant: $50,000<br>to provide public school students with hands-on environmental education programs]]></description>
     <styleUrl>#style6</styleUrl>
     <Point>
@@ -482,7 +482,7 @@
   </Placemark>
   <Placemark>
     <name>Grow NYC School Curriculum</name>
-    <Snippet>IS 125 (Updated 2012)</Snippet>
+    <snippet>IS 125 (Updated 2012)</snippet>
     <description><![CDATA[46-02 47th Ave.<br><br>Two-year grant: $50,000<br>to provide public school students with hands-on environmental education programs]]></description>
     <styleUrl>#style6</styleUrl>
     <Point>
@@ -491,7 +491,7 @@
   </Placemark>
   <Placemark>
     <name>Grow NYC School Curriculum</name>
-    <Snippet>Queen Vocational and Technical HS (Updated 2012)</Snippet>
+    <snippet>Queen Vocational and Technical HS (Updated 2012)</snippet>
     <description><![CDATA[37-02 47th Ave.<br><br>Two-year grant: $50,000<br>to provide public school students with hands-on environmental education programs]]></description>
     <styleUrl>#style6</styleUrl>
     <Point>
@@ -500,7 +500,7 @@
   </Placemark>
   <Placemark>
     <name>Grow NYC School Curriculum</name>
-    <Snippet>IS 10 Horace Greeley (2011)</Snippet>
+    <snippet>IS 10 Horace Greeley (2011)</snippet>
     <description><![CDATA[45-11 31st Ave.<br><br>Two-year grant: $50,000<br>to provide public school students with hands-on environmental education programs]]></description>
     <styleUrl>#style6</styleUrl>
     <Point>
@@ -509,7 +509,7 @@
   </Placemark>
   <Placemark>
     <name>Grow NYC School Curriculum</name>
-    <Snippet>IS 141 (Updated 2012)</Snippet>
+    <snippet>IS 141 (Updated 2012)</snippet>
     <description><![CDATA[37-11 21st Ave.<br><br>Two-year grant: $50,000<br>to provide public school students with hands-on environmental education programs]]></description>
     <styleUrl>#style6</styleUrl>
     <Point>
@@ -518,7 +518,7 @@
   </Placemark>
   <Placemark>
     <name>Sunnyside Community Services</name>
-	<Snippet>(Updated 2012)</Snippet>
+    <snippet>(Updated 2012)</snippet>
     <description><![CDATA[43-31 39th Street<br><br>One-year grant: $75,000<br>To provide a summer urban forestry internship program, in collaboration with Trees New York]]></description>
     <styleUrl>#style11</styleUrl>
     <Point>
@@ -527,7 +527,7 @@
   </Placemark>
   <Placemark>
     <name>Friends of Sunnyside Gardens Community Association</name>
-    <Snippet>(2011)</Snippet>
+    <snippet>(2011)</snippet>
     <description><![CDATA[$10,000<br>to plant trees outside the historic Sunnyside Gardens Park]]></description>
     <styleUrl>#style13</styleUrl>
     <Point>
@@ -536,7 +536,7 @@
   </Placemark>
   <Placemark>
     <name>All Saints Episcopal Church</name>
-    <Snippet>43-12 46th St. (Updated 2012)</Snippet>
+    <snippet>43-12 46th St. (Updated 2012)</snippet>
     <description><![CDATA[43-12 46th St.<br><br>One-year grant: $20,000 and a $5,000 matching grant<br>to revitalize their garden, providing public access to local green space]]></description>
     <styleUrl>#style14</styleUrl>
     <Point>
@@ -545,7 +545,7 @@
   </Placemark>
   <Placemark>
     <name>Center for Urban Pedagogy</name>
-    <Snippet>(2011)</Snippet>
+    <snippet>(2011)</snippet>
     <description><![CDATA[45-30 36th St.<br><br>$30,000 for one year <br>to lead Aviation High School students in a community research and design project that explores and explains the inner workings of NYC’s energy infrastructure]]></description>
     <styleUrl>#style5</styleUrl>
     <Point>
@@ -554,7 +554,7 @@
   </Placemark>
   <Placemark>
     <name>DAMAYAN</name>
-    <Snippet>Migrant Workers Association (2011)</Snippet>
+    <snippet>Migrant Workers Association (2011)</snippet>
     <description><![CDATA[<b>DAMAYAN</b><br>$15,000 for one year<br>to research the feasibility of a community garden for Filipina domestic and other low-wage workers]]></description>
     <styleUrl>#style3</styleUrl>
     <Polygon>
@@ -592,7 +592,7 @@
   </Placemark>
   <Placemark>
     <name>Queens Library</name>
-    <Snippet>Sunnyside Community Library (Updated 2012)</Snippet>
+    <snippet>Sunnyside Community Library (Updated 2012)</snippet>
     <description><![CDATA[Sunnyside Community Library<br>43-06 Greenpoint Ave.<br><br>$250,000 for one year<br>To continue its “Greening Libraries” program, creating more greenspace and increasing community-based education.]]></description>
     <styleUrl>#style8</styleUrl>
     <Point>
@@ -601,7 +601,7 @@
   </Placemark>
   <Placemark>
     <name>Queens Library</name>
-    <Snippet>Woodside Community Library (Updated 2012)</Snippet>
+    <snippet>Woodside Community Library (Updated 2012)</snippet>
     <description><![CDATA[Woodside Community Library<br>54-22 Skillman Ave.<br><br>$250,000 for one year<br>To continue its “Greening Libraries” program, creating more greenspace and increasing community-based education.]]></description>
     <styleUrl>#style8</styleUrl>
     <Point>
@@ -610,25 +610,25 @@
   </Placemark>
   <Placemark>
     <name>Queens Library</name>
-    <Snippet>Steinway Community Library (Updated 2012)</Snippet>
+    <snippet>Steinway Community Library (Updated 2012)</snippet>
     <description><![CDATA[Steinway Community Library<br>21-45 31st St.<br><br>$250,000 for one year<br>To continue its “Greening Libraries” program, creating more greenspace and increasing community-based education.]]></description>
     <styleUrl>#style8</styleUrl>
     <Point>
       <coordinates>-73.909370,40.776829,0.000000</coordinates>
     </Point>
   </Placemark>
-<Placemark>
+  <Placemark>
     <name>Queens Library</name>
-    <Snippet>Astoria Community Library (Updated 2012)</Snippet>
+    <snippet>Astoria Community Library (Updated 2012)</snippet>
     <description><![CDATA[Astoria Community Library<br>14-01 Astoria Boulevard<br><br>$250,000 for one year<br>To continue its “Greening Libraries” program, creating more greenspace and increasing community-based education.]]></description>
     <styleUrl>#style8</styleUrl>
     <Point>
       <coordinates>-73.921671,40.740781,0.0</coordinates>
     </Point>
   </Placemark>
-<Placemark>
+  <Placemark>
     <name>Queens Library</name>
-    <Snippet>Broadway Community Library (Updated 2012)</Snippet>
+    <snippet>Broadway Community Library (Updated 2012)</snippet>
     <description><![CDATA[Broadway Community Library<br>40-20 Broadway<br><br>$250,000 for one year<br>To continue its “Greening Libraries” program, creating more greenspace and increasing community-based education.]]></description>
     <styleUrl>#style8</styleUrl>
     <Point>
@@ -637,7 +637,7 @@
   </Placemark>
   <Placemark>
     <name>City Parks Foundation</name>
-	<Snippet>(Updated 2012)</Snippet>
+    <snippet>(Updated 2012)</snippet>
     <description><![CDATA[<div dir="ltr">City Parks Foundation<br><br>Three-year grant: $2,500,000, including a $500,000 challenge grant. Year two award is $583,333)<br>For the planting and stewardship of up to 850 trees in Western Queens.</div>]]></description>
     <styleUrl>#style9</styleUrl>
     <Polygon>
@@ -655,10 +655,10 @@
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-<Placemark>
+  <Placemark>
     <name>City Parks Foundation</name>
-	<Snippet>(Updated 2012)</Snippet>
-	<description><![CDATA[<div dir="ltr">City Parks Foundation<br><br>Three-year grant: $2,500,000, including a $500,000 challenge grant. Year two award is $583,333)<br>For the planting and stewardship of up to 850 trees in Western Queens.</div>]]></description>
+    <snippet>(Updated 2012)</snippet>
+    <description><![CDATA[<div dir="ltr">City Parks Foundation<br><br>Three-year grant: $2,500,000, including a $500,000 challenge grant. Year two award is $583,333)<br>For the planting and stewardship of up to 850 trees in Western Queens.</div>]]></description>
     <styleUrl>#style9</styleUrl>
     <Polygon>
       <outerBoundaryIs>
@@ -677,7 +677,7 @@
   </Placemark>
   <Placemark>
     <name>Global Kids</name>
-    <Snippet>William Cullen Bryant High School (Updated 2012)</Snippet>
+    <snippet>William Cullen Bryant High School (Updated 2012)</snippet>
     <description><![CDATA[Global Kids&nbsp;<div>William Cullen Bryant High School&nbsp;</div><div>48-10 31st Ave.</div><div><br>&nbsp;</div><div><div>Two-year grant: $150,000<br />To train youth in outreach and coalition building as they organize local residents in advocating for environmental and energy public policies.</div></div>]]></description>
     <styleUrl>#style101</styleUrl>
     <Point>
@@ -686,7 +686,7 @@
   </Placemark>
   <Placemark>
     <name>Global Kids</name>
-    <Snippet>Long Island City High School (Updated 2012)</Snippet>
+    <snippet>Long Island City High School (Updated 2012)</snippet>
     <description><![CDATA[Global Kids&nbsp;<div>William Cullen Bryant High School&nbsp;</div><div>14-30 Broadway Ave.</div><div><br>&nbsp;</div><div><div>Two-year grant: $150,000<br />To train youth in outreach and coalition building as they organize local residents in advocating for environmental and energy public policies.</div></div>]]></description>
     <styleUrl>#style101</styleUrl>
     <Point>
@@ -695,7 +695,7 @@
   </Placemark>
   <Placemark>
     <name>Jacob Riis Neighborhood Settlement House</name>
-	<Snippet>(Updated 2012)</Snippet>
+    <snippet>(Updated 2012)</snippet>
     <description><![CDATA[<div>Jacob Riis Neighborhood Settlement House</div><div>10-25 41st Avenue</div><div><br>&nbsp;</div><div><div>One-year grant: $20,000<br>To increase knowledge of and access to public green space and healthier food.</div></div>]]></description>
     <styleUrl>#style102</styleUrl>
     <Point>
@@ -704,7 +704,7 @@
   </Placemark>
   <Placemark>
     <name>City Growers</name>
-	<Snippet>(Updated 2012)</Snippet>
+    <snippet>(Updated 2012)</snippet>
     <description><![CDATA[<b>City Growers</b><br>37-18 Northern Blvd<br><br>One-year grant: $45,000<br>To educate youth in environmental stewardship and agriculture using the Brooklyn Grange, an urban rooftop farm as a learning site.]]></description>
     <styleUrl>#style103</styleUrl>
     <Point>
@@ -713,7 +713,7 @@
   </Placemark>
   <Placemark>
     <name>Recycle-a-Bicycle</name>
-	<Snippet>Queens Vocational and Technical High School (Updated 2012)</Snippet>
+    <snippet>Queens Vocational and Technical High School (Updated 2012)</snippet>
     <description><![CDATA[<b>Recycle-a-Bicycle</b><br>37-02 47th Ave.<br><br>Two-year grant: $200,000<br><br>To provide bike-related educational offerings and activities in Western Queens.]]></description>
     <styleUrl>#style104</styleUrl>
     <Point>
@@ -722,7 +722,7 @@
   </Placemark>
   <Placemark>
     <name>Recycle-a-Bicycle</name>
-	<Snippet>International High School at Laguardia Community College (Updated 2012)</Snippet>
+    <snippet>International High School at Laguardia Community College (Updated 2012)</snippet>
     <description><![CDATA[<b>Recycle-a-Bicycle</b><br>31-10 Thomson Avenue<br><br>Two-year grant: $200,000<br><br>To provide bike-related educational offerings and activities in Western Queens.]]></description>
     <styleUrl>#style104</styleUrl>
     <Point>
@@ -731,7 +731,7 @@
   </Placemark>
   <Placemark>
     <name>Recycle-a-Bicycle</name>
-	<Snippet>Woodside Intermediate School 125 (Updated 2012)</Snippet>
+    <snippet>Woodside Intermediate School 125 (Updated 2012)</snippet>
     <description><![CDATA[<b>Recycle-a-Bicycle</b><br>46-02 47th Avenue<br><br>Two-year grant: $200,000<br><br>To provide bike-related educational offerings and activities in Western Queens.]]></description>
     <styleUrl>#style104</styleUrl>
     <Point>

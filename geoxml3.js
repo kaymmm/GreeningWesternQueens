@@ -1,4 +1,10 @@
 /******************************************************************************\
+ * geoxmlfullv3.js, tweaked by Keith Miyake
+ * just made a few modifications to suit my tastes and to use the "snippets" 
+ * tag for the sidebar snippets.
+\******************************************************************************/
+
+/******************************************************************************\
 *  geoxmlfullv3.js                                       by Lance Dyas          *
 *  A Google Maps API Extension  GeoXml parser                                 *
 *  GeoXml Parser based on my maps kml parser by Mike Williams called egeoxml  *
